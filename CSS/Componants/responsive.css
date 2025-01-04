@@ -1,0 +1,12 @@
+/* Responsive Design */
+@media (max-width: 768px) {
+  .portfolio-item {
+      width: calc(50% - 40px);
+  }
+}
+
+@media (max-width: 480px) {
+  .portfolio-item {
+      width: 100%;
+  }
+}
